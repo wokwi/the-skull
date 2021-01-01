@@ -2,9 +2,13 @@
 
 > A mind-bending hardware puzzle in three acts
 
-[To the crowdfunding campaign](https://www.crowdsupply.com/wokwi/the-skull-ctf/)
+▶ [Learn more about the project and get your own Skull](https://www.crowdsupply.com/wokwi/the-skull-ctf/)
 
-You can find the complete Firmware BETA source code release on our FTP server: 
+▶ [Challenge instructions](https://skullctf.com/start)
 
-> ftp://cranium:bonehead@104.197.58.240/skull-firmware
+▶ [Leaderboard](https://skullctf.com/high)
 
+You can find the complete Firmware source code in the [skull-firmware](skull-firmware/) directory.
+
+A [precompiled HEX file](skull-firmware.hex) is available too (with dummy flags, of course).
+For detailed instructions how to flash the firmware yourself, check out the [reprogramming guide](https://skullctf.com/reprogramming).
